@@ -3,7 +3,7 @@
 ![](Stude.jfif)
 
 ## Introduction
-This is a power BI project on the **student academic performance**. 
+This is a power BI project on **student academic performance**. 
 The project is to analyse and derive insight to answer crucial question and help student make data driven decisions
 
 **_Disclaimer_**: _All dataset and report do not represent any institution but just a dummy dataset to demonstrate the capabilities of Power BI_
