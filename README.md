@@ -47,7 +47,9 @@ The project is to analyse and derive insight to answer crucial question and help
   
   The total no. of students is 480(four hundred and eighty)
   
-  305 are male making 64% 🕵️‍♂️ while 175 are female comprising 36% 🕵️‍♀️
+  305 students are male making 64% |  175 students are female comprising 36%
+  :-------------------------------:|:---------------------------------:
+  ![](Male.PNG)                    |         ![](Female.PNG)
   
   we have students from 14 countries
   ![](Student_performance.PNG)
