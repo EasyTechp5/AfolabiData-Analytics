@@ -61,3 +61,6 @@ The project is to analyse and derive insight to answer crucial question and help
   
   ## Recommendation
   For a deep dive into the analytics, the datasets of the previous year will be required for comparison and data driven making
+  
+  ![](thank.jfif)
+  By AFOLABI ISRAEL OLAJIDE
