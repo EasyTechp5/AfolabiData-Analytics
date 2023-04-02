@@ -3,7 +3,7 @@
 ![](Stude.jfif)
 
 ## Introduction
-This is a power BI project on **student academic performance**. 
+This is a power BI project on **student academic performance**. 🤓
 The project is to analyse and derive insight to answer crucial question and help student make data driven decisions
 
 **_Disclaimer_**: _All dataset and report do not represent any institution but just a dummy dataset to demonstrate the capabilities of Power BI_
@@ -39,19 +39,19 @@ The project is to analyse and derive insight to answer crucial question and help
   
   3. Students' course
   
-  You can interact with the report [here] (https://www.linkedin.com/in/israel-afolabi-a6a770232)
+  You can interact with the report [here] https://www.linkedin.com/in/israel-afolabi-a6a770232)
   
   ## Analysis
   
   The total no. of students is 480(four hundred and eighty)
   
-  305 are male making 64% while 175 are female comprising 36%
+  305 are male making 64% 🕵️‍♂️ while 175 are female comprising 36% 🕵️‍♀️
   
   we have students from 14 countries
   ![](Student_performance.PNG)
   
   ## Conclusions and Recommendation:
-  From the analysis
+  From the analysis 
   
   -Male Peformed better than the female
   
@@ -60,7 +60,9 @@ The project is to analyse and derive insight to answer crucial question and help
   -IT has the largest number of students.
   
   ## Recommendation
-  For a deep dive into the analytics, the datasets of the previous year will be required for comparison and data driven making
+  For a deep dive into the analytics, the datasets of the previous year will be required for comparison and data driven making 😄
   
-  ![](thank.jfif)
-  By AFOLABI ISRAEL OLAJIDE
+  ![](THanku.jfif)
+  
+  
+  By AFOLABI ISRAEL OLAJIDE 
