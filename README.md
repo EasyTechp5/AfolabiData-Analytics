@@ -16,6 +16,8 @@ The project is to analyse and derive insight to answer crucial question and help
   
   The following Power BI were incorporated:
   
+  ![](Data_VIEW.PNG)
+  ---
   -DAX 
   
   -Quick measures
