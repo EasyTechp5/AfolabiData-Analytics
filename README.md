@@ -49,7 +49,7 @@ The project is to analyse and derive insight to answer crucial question and help
   
   305 students are male making 64% |  175 students are female comprising 36%
   :-------------------------------:|:---------------------------------:
-  ![](Male.PNG)                    |         ![](Female.PNG)
+  ![](MMale.PNG)                    |         ![](FFemale.PNG)
   
   we have students from 14 countries
   ![](Student_performance.PNG)
