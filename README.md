@@ -41,7 +41,7 @@ The project is to analyse and derive insight to answer crucial question and help
   
   3. Students' course
   
-  You can interact with the report [here](https://www.linkedin.com/in/israel-afolabi-a6a770232)
+  You can interact with the report [here](https://app.powerbi.com/groups/me/reports/79a529be-8a64-4bde-872e-59abff83b463/ReportSection)
   
   ## Analysis
   
