@@ -4,15 +4,15 @@
 
 ## Introduction
 This is a power BI project on **student academic performance**. 🤓
-The project is to analyse and derive insight to answer crucial question and help student make data driven decisions
+The project is to analyze and derive insight to answer crucial questions and help students make data driven decisions
 
-**_Disclaimer_**: _All dataset and report do not represent any institution but just a dummy dataset to demonstrate the capabilities of Power BI_
+**_Disclaimer_**: _All datasets and report do not represent any institution but just a dummy dataset to demonstrate the capabilities of Power BI_
 
 ## Problem Statement
- 1. Which gender perfoms best 
-  2. Which course has highest number of students
+ 1. Which gender performs best 
+  2. Which course has the highest number of students
   
-  ## Skills/concept demonstrated
+  ## Skills/concepts demonstrated
   
   The following Power BI were incorporated:
   
